@@ -1,0 +1,217 @@
+{
+  "kpis": {
+    "total_revenue": 3693836.78,
+    "total_orders": 42510,
+    "aov": 86.89,
+    "refund_rate": 0.078,
+    "rev_delta": 0.1365,
+    "orders_delta": 0.1627,
+    "aov_delta": -0.0225
+  },
+  "monthly_revenue": [
+    {
+      "month": "2024-01",
+      "revenue": 261369.1225
+    },
+    {
+      "month": "2024-02",
+      "revenue": 280202.002
+    },
+    {
+      "month": "2024-03",
+      "revenue": 289812.0035
+    },
+    {
+      "month": "2024-04",
+      "revenue": 301264.091
+    },
+    {
+      "month": "2024-05",
+      "revenue": 328684.8835
+    },
+    {
+      "month": "2024-06",
+      "revenue": 332810.4425
+    },
+    {
+      "month": "2024-07",
+      "revenue": 329899.68
+    },
+    {
+      "month": "2024-08",
+      "revenue": 323008.3155
+    },
+    {
+      "month": "2024-09",
+      "revenue": 286813.6895
+    },
+    {
+      "month": "2024-10",
+      "revenue": 278599.264
+    },
+    {
+      "month": "2024-11",
+      "revenue": 318913.027
+    },
+    {
+      "month": "2024-12",
+      "revenue": 362460.2555
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Beauty",
+      "revenue": 364396.432
+    },
+    {
+      "category": "Sports",
+      "revenue": 411459.0035
+    },
+    {
+      "category": "Home & Garden",
+      "revenue": 598726.423
+    },
+    {
+      "category": "Clothing",
+      "revenue": 1053984.9725
+    },
+    {
+      "category": "Electronics",
+      "revenue": 1265269.9455
+    }
+  ],
+  "top_products": [
+    {
+      "product": "Denim Jacket",
+      "revenue": 251968.5035
+    },
+    {
+      "product": "Bluetooth Speaker",
+      "revenue": 220838.0825
+    },
+    {
+      "product": "Webcam HD",
+      "revenue": 210314.823
+    },
+    {
+      "product": "Casual Sneakers",
+      "revenue": 209822.8555
+    },
+    {
+      "product": "Wireless Earbuds",
+      "revenue": 194361.0585
+    },
+    {
+      "product": "Rain Jacket",
+      "revenue": 181675.4085
+    },
+    {
+      "product": "Laptop Stand",
+      "revenue": 151633.9585
+    },
+    {
+      "product": "Throw Blanket",
+      "revenue": 132624.9705
+    },
+    {
+      "product": "Linen Shirt",
+      "revenue": 124685.133
+    },
+    {
+      "product": "LED Desk Lamp",
+      "revenue": 119394.567
+    }
+  ],
+  "by_country": [
+    {
+      "country": "US",
+      "revenue": 1482404.619
+    },
+    {
+      "country": "UK",
+      "revenue": 672136.549
+    },
+    {
+      "country": "DE",
+      "revenue": 549743.3795
+    },
+    {
+      "country": "FR",
+      "revenue": 451989.5715
+    },
+    {
+      "country": "PL",
+      "revenue": 290145.175
+    },
+    {
+      "country": "CA",
+      "revenue": 247417.4825
+    }
+  ],
+  "customer_cohorts": [
+    {
+      "month": "2024-01",
+      "returning": 0,
+      "new": 2206
+    },
+    {
+      "month": "2024-02",
+      "returning": 651,
+      "new": 1623
+    },
+    {
+      "month": "2024-03",
+      "returning": 1083,
+      "new": 1303
+    },
+    {
+      "month": "2024-04",
+      "returning": 1420,
+      "new": 1099
+    },
+    {
+      "month": "2024-05",
+      "returning": 1708,
+      "new": 969
+    },
+    {
+      "month": "2024-06",
+      "returning": 1856,
+      "new": 770
+    },
+    {
+      "month": "2024-07",
+      "returning": 2060,
+      "new": 622
+    },
+    {
+      "month": "2024-08",
+      "returning": 2087,
+      "new": 506
+    },
+    {
+      "month": "2024-09",
+      "returning": 2020,
+      "new": 397
+    },
+    {
+      "month": "2024-10",
+      "returning": 1956,
+      "new": 303
+    },
+    {
+      "month": "2024-11",
+      "returning": 2350,
+      "new": 317
+    },
+    {
+      "month": "2024-12",
+      "returning": 2612,
+      "new": 335
+    }
+  ],
+  "data_period": {
+    "start": "2024-01-01",
+    "end": "2024-12-30"
+  }
+}

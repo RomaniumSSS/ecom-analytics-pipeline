@@ -1,0 +1,5 @@
+pandas>=2.2
+plotly>=5.22
+faker>=28.0
+numpy>=1.26
+jinja2>=3.1
