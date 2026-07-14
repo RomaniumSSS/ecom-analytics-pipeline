@@ -2,7 +2,7 @@
 
 Python pipeline that takes raw e-commerce order data (50K+ transactions), cleans and processes it, calculates key business metrics, and generates an interactive dashboard — all in one script run.
 
-**[Live Dashboard Demo](https://ramanpazharytski.github.io/ecom-analytics-pipeline/)**
+**[Live Dashboard Demo](https://romaniumsss.github.io/ecom-analytics-pipeline/)**
 
 ![Dashboard Preview](screenshots/portfolio-thumbnail.png)
 
