@@ -420,6 +420,7 @@ HTML_TEMPLATE = Template("""\
         <!-- Header -->
         <div class="header">
             <h1>E-commerce Analytics Dashboard</h1>
+            <p style="margin:10px 0 0;font-size:14px;line-height:1.5;color:#475569">Demo dashboard · Synthetic data. All figures shown are generated sample data.</p>
             <div class="header-meta">
                 <span>Data period: {{ data_period.start }} to {{ data_period.end }}</span>
                 <span>Generated: {{ generated_at }}</span>
